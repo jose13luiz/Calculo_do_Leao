@@ -1,4 +1,4 @@
-#Carteira de Imposto de Renda
+# Carteira de Imposto de Renda
 
 Em uma "carteira de imposto de renda", o termo crédito geralmente se refere a valores que o contribuinte tem a receber da Receita Federal ou que pode usar para abater impostos futuros. Os principais tipos incluem:
     • Restituição do Imposto de Renda: Este é o tipo mais comum. Ocorre quando o valor do imposto retido na fonte ao longo do ano é maior do que o imposto de renda efetivamente devido, resultando em um valor a ser devolvido ao contribuinte. A restituição é paga em lotes, de acordo com um cronograma da Receita Federal.
@@ -7,7 +7,7 @@ Em uma "carteira de imposto de renda", o termo crédito geralmente se refere a v
     • Créditos Presumidos e Fiscais (para empresas): No contexto corporativo, o crédito tributário pode surgir da aplicação de regimes tributários específicos (como Lucro Real). Por exemplo, o sistema não cumulativo de PIS e COFINS permite que as empresas se creditem de valores pagos em etapas anteriores da cadeia produtiva, evitando a tributação em cascata.
 É importante diferenciar "créditos" de "deduções". Deduções são gastos específicos (como despesas médicas, educação ou previdência privada PGBL) que reduzem a base de cálculo do imposto devido, enquanto os créditos são valores que abatem diretamente o imposto já calculado ou representam valores a receber.
 
-##Como fazer o imposto de renda
+## Como fazer o imposto de renda
 
 Se você está querendo saber como fazer o [imposto de renda](https://www.contabilidadeolimpia.com.br/blog/como-declarar-acoes-no-imposto-de-renda-2025/) anual e o que declarar. Não se preocupe, pois, você tirará essas dúvidas.
 Estamos em uma época do ano onde todos os brasileiros buscam informações sobre como fazer o imposto de renda anual e o que se deve ou não declarar. Essa dúvida é comum, pois, este é um procedimento muito detalhado, que requer muita atenção.
@@ -21,7 +21,7 @@ Contando com um profissional especializado, os riscos de erros ou esquecimento s
 Passo a passo de como declarar o imposto de renda anual
 Sim, esse procedimento preocupa milhares de pessoas todos os anos, mas apesar de se tratar de algo que exige muita atenção, é um processo simples, que pode ser resumido em apenas cinco passos, veja quais são eles a seguir:
 
-###1. Separe a documentação
+### 1. Separe a documentação
 
 Além dos documentos mais comuns como RG – Registro Geral, o Título de Eleitor e o CPF – Cadastro de Pessoa Física a Receita Federal cobra a apresentação de mais alguns documentos para a realização da declaração do imposto de renda.
 Os primeiros a serem separados são todos os comprovantes de rendimentos do ano anterior, eles são fundamentais e servirão para comprovar todos os seus ganhos declarados ao imposto de renda.
@@ -30,24 +30,24 @@ Depois de separar todos os comprovantes de rendimento, providencie os comprovant
 Despesas com mensalidades escolar, pagamentos de faculdade, convênios médico e odontológico, gastos com dependentes menores de idade ou maiores de 65 anos e doações, são alguns dos exemplos.
 Por último, providencie os comprovantes de bens como imóveis e veículos, para que a Receite avalie se as compras são equivalentes aos ganhos recebidos. Declarando todos os seus ganhos e despesas corretamente, além de evitar problemas futuros, você ainda pode garantir uma restituição do imposto de renda.
 
-###2. Baixe o programa da Receita Federal
+### 2. Baixe o programa da Receita Federal
 
 Para fazer o imposto de renda anual, a Receita Federal disponibiliza um programa específico todos os anos. Ele pode ser baixado gratuitamente direto do site da Receita Federal e instalado em qualquer tipo de computador e sistema operacional.
 
 Com o programa devidamente instalado, abra-o e clique na opção ‘criar declaração’. Se houver uma declaração do ano anterior, o primeiro dado a ser informado será o número do recibo dela. Depois basta inserir os dados solicitados.
 
-###3. Escolha o modelo da sua declaração
+### 3. Escolha o modelo da sua declaração
 
 Muitas pessoas ficam em dúvida sobre escolher o modelo simplificado ou completo, a diferença entre esses dois modelos está na abatimento das despesas. Mas, não se preocupe em escolher um modelo, afinal, o próprio programa da Receita indica o melhor para cada caso.
 Declaração simplificada: o modelo simplificado funciona com um desconto de 20% sobre o cálculo final do seu impostos de renda. Esse desconto possui um teto estabelecido pela Receita e serve para substituir as despesas dedutíveis do declarante.
 Declaração completa: já no modelo completo, será preciso que você insira todos os gastos dedutíveis para que o seu desconto final seja calculado. Esse modelo é mais indicado para quem tem muitos gastos dedutíveis e pode receber um desconto maior que 20%.
 
-###4. Envie as informações dentro do prazo
+### 4. Envie as informações dentro do prazo
 
 Depois de preencher com muita atenção todas as informações e revisar, envie sua declaração a Receita Federal. Nesta etapa o programa solicitará seus dados bancários, caso você tenha direito a alguma restituição.
 Fique atento aos prazos, a data limite deste ano é dia 28 de abril, até as 23:59. Ao enviar a declaração você receberá um documento com o número do recibo. Caso você tenha que pagar algo a receita, será gerado juntamente uma DARF que poderá ser paga de uma única vez ou em parcelas, fica a seu critério escolher a melhor forma.
 
-###5. Corrija os possíveis erros
+### 5. Corrija os possíveis erros
 
 Se depois de enviar a declaração você perceber que cometeu algum erro, ou esqueceu algo importante, não se preocupe. No mesmo programa em que você realizou sua declaração, você encontrará uma opção chamada ‘declaração retificadora’.
 Basta clicar nela, informar o número da declaração que você precisa arrumar, corrigir todos os erros ou informar os esquecimentos e enviar. Esse procedimento de correção é gratuito e pode ser feito em um prazo de até cinco anos.
